@@ -34,7 +34,7 @@ export const Topside = styled.div`
 
     > p {
         margin: 8px 0px 16px;
-        font-size: 18px;
+        font-size: 14px;
         color: var(--gray);
         letter-spacing: 0.1px;
     }
